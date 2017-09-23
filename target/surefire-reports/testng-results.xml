@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="googletest.GoogleTest" duration-ms="33948" started-at="2017-09-23T11:14:55Z" finished-at="2017-09-23T11:15:29Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33948" started-at="2017-09-23T11:14:55Z" finished-at="2017-09-23T11:15:29Z">
+      <class name="googletest.GoogleTest">
+        <test-method status="PASS" signature="GoogleScreen()[pri:0, instance:googletest.GoogleTest@1690630]" name="GoogleScreen" duration-ms="33901" started-at="2017-09-23T16:44:55Z" finished-at="2017-09-23T16:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleScreen -->
+      </class> <!-- googletest.GoogleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- googletest.GoogleTest -->
+</testng-results>
